@@ -1,12 +1,11 @@
 {
   "name": "my-movie-api",
   "version": "1.0.0",
-  "main": "server.js",
+  "main": "api/movie.js",
   "scripts": {
-    "start": "node server.js"
+    "start": "vercel dev"
   },
   "dependencies": {
-    "dew-api": "^1.0.0",
-    "express": "^4.18.2"
+    "dew-api": "^1.0.0"
   }
 }
