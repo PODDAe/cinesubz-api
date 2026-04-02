@@ -7,7 +7,7 @@ async function fetchMovie(query) {
     try {
         const results = await dewapi.movie.cinesubz(query);
 
-        // Optional: clean output for frontend use
+        // Cleaned output
         const cleaned = results.map(movie => ({
             title: movie.title || movie.name || "Unknown",
             year: movie.year || "",
