@@ -1,0 +1,10 @@
+{
+  "functions": {
+    "api/cinesubz.js": {
+      "runtime": "nodejs18.x"
+    },
+    "api/cinesubzdl.js": {
+      "runtime": "nodejs18.x"
+    }
+  }
+}
