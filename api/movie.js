@@ -2,7 +2,7 @@
 const { fetchMovie } = require('../scrap');
 
 const OWNER = {
-    name: "DCT Dula Dev",
+    name: "DCT Dula Dev </>",
     number: "+94752978237"
 };
 
