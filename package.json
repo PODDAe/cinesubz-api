@@ -1,0 +1,8 @@
+{
+  "name": "cinesubz-api",
+  "version": "1.0.0",
+  "description": "CineSubz API",
+  "dependencies": {
+    "dew-api": "^1.0.0"
+  }
+}
