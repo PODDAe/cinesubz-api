@@ -1,4 +1,4 @@
-// api/scrap.js
+// scrap.js
 const dewapi = require('dew-api');
 
 async function fetchMovie(query) {
