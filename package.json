@@ -1,14 +1,12 @@
 {
   "name": "cinesubz-api",
   "version": "1.0.0",
-  "description": "CineSubz API with Download",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
   },
   "dependencies": {
-    "express": "^4.18.2",
-    "dew-api": "^1.0.0",
-    "axios": "^1.6.0"
+    "dew-api": "latest",
+    "express": "^4.19.2"
   }
 }
